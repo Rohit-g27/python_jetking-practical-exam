@@ -1,0 +1,17 @@
+Q2)- write a python program to reverse only the volwel of a given string
+ ans-def reverse_vowels(str1):
+    vowels= ""
+    for char in "aeiouAEIOU":
+         VOWELS += char
+    result_string=""
+    for char in str1:
+        if char in "aeiouAEIOU":
+            RESULT_STRING += VOWELS[-1]
+            VOWELS = VOWELS[:-1]
+        else:
+            result_string += char
+    return reserve string
+    print(reverse_vowels("w3resorse"))
+    print(reverse_vowels("python"))
+    print(reverse_vowels("perl"))
+    print(reverse_vowels("USA"))

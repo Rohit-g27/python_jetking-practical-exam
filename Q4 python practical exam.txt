@@ -1,0 +1,10 @@
+Q4)write a python program to remove the duplicate elements of a given array of numbers such that each element appear only
+once and return thr new length of the fiven array
+ans-def Remove(duplicate):
+    final_list = []
+    for num in duplicate:
+        if num not in final_list:
+            final_list .append(num)
+    return final_list
+    duplicate=[2,4,10,20,5,2,20,4]
+    print(Remove(duplicate))

@@ -1,0 +1,11 @@
+Q)1 what is a python programming language and explain feature of python programming language
+ans- python is a computer programming language often used to build website and software automation task and conduct
+data analysispython is a general purpose language meaning it can be used to reate a variety of different programs and and its speci;ized 
+for any specific problem
+   features of python programming language:-
+ 1-easy to code
+ 2-easy to read python code looks like simple english world
+ 3-it is free and open sourse
+ 4-robust standart library
+ 5-extensible
+ 6-object oriented and procedure oriented language
